@@ -1,0 +1,18 @@
+/protocol/starling-protocol.aar
+/protocol/build
+
+/starling/starling-*.aar
+/starling/starling-*.jar
+/starling/build
+
+# Android/IJ
+#
+.classpath
+.cxx
+.gradle
+.idea
+.project
+.settings
+local.properties
+android.iml
+/build
